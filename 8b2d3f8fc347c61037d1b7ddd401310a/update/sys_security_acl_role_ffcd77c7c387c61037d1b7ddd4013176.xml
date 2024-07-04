@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 09:46:43</sys_created_on>
+        <sys_id>ffcd77c7c387c61037d1b7ddd4013176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1393996_snow_tra_test_1.admin</sys_name>
+        <sys_package display_value="SNOW Training" source="x_1393996_snow_tra">8b2d3f8fc347c61037d1b7ddd401310a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Training">8b2d3f8fc347c61037d1b7ddd401310a</sys_scope>
+        <sys_security_acl display_value="x_1393996_snow_tra_test_1">73cd77c7c387c61037d1b7ddd4013174</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ffcd77c7c387c61037d1b7ddd4013176</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 09:46:43</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

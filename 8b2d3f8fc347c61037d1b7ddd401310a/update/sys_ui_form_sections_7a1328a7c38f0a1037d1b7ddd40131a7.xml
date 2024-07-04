@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7a1328a7c38f0a1037d1b7ddd40131a7" sys_domain="global" table="x_1393996_snow_tra_day2_joyson" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 07:08:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b61328a7c38f0a1037d1b7ddd40131ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1393996_snow_tra_day2_joyson" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">7a1328a7c38f0a1037d1b7ddd40131a7</sys_ui_form>
+            <sys_ui_section caption="Employee Detail" display_value="Employee Detail" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">e3abd0ebc34f0a1037d1b7ddd40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:08:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 07:16:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79e4206bc38f0a1037d1b7ddd401314c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1393996_snow_tra_day2_joyson" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">7a1328a7c38f0a1037d1b7ddd40131a7</sys_ui_form>
+            <sys_ui_section caption="Educational Details" display_value="Educational Details" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">f5e4206bc38f0a1037d1b7ddd401314a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:16:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 07:25:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36f6acebc38f0a1037d1b7ddd40131db</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1393996_snow_tra_day2_joyson" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">7a1328a7c38f0a1037d1b7ddd40131a7</sys_ui_form>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">aaf6acebc38f0a1037d1b7ddd40131d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:25:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1393996_snow_tra_day2_joyson</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 07:08:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a1328a7c38f0a1037d1b7ddd40131a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1393996_snow_tra_day2_joyson</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SNOW Training" source="x_1393996_snow_tra">8b2d3f8fc347c61037d1b7ddd401310a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNOW Training">8b2d3f8fc347c61037d1b7ddd401310a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7a1328a7c38f0a1037d1b7ddd40131a7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:08:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

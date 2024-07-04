@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c3cd37c7c387c61037d1b7ddd4013139" label="Test_1" max_length="40" name="x_1393996_snow_tra_test_1" type="collection">
+        <element label="Address" max_length="255" name="address" type="geo_point"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element display="true" label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="Linked In Profile" max_length="1024" name="linked_in_profile" type="url"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Photo" max_length="40" name="photo" type="user_image"/>
+        <element label="Resume" max_length="255" name="resume" type="file_attachment"/>
+        <element label="Ip Address" max_length="255" name="ip_address" type="ip_addr"/>
+        <element choice="1" label="CSA Certification" max_length="40" name="csa_certification" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yet to Start" sequence="0" value="Yet to Start"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="In Progress"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="Completed"/>
+            </choice>
+        </element>
+        <element label="Create Table" max_length="38" name="create_table" type="percent_complete"/>
+        <element label="Create Update Set" max_length="38" name="create_update_set" type="percent_complete"/>
+        <element label="Asset Tag" max_length="255" name="asset_tag" type="string_full_utf8"/>
+        <element choice="1" label="Education Qualification" max_length="40" name="education_qualification" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Post Graduate" sequence="1" value="Post Graduate"/>
+                <element inactive_on_update="false" label="Under Graduate" sequence="2" value="Under Graduate"/>
+            </choice>
+        </element>
+        <element choice="1" label="Project" max_length="800" name="project" type="data_structure">
+            <choice>
+                <element inactive_on_update="false" label="Servicenow Training" value="Servicenow Training"/>
+                <element inactive_on_update="false" label="Servicenow Development" value="Servicenow Development"/>
+            </choice>
+        </element>
+        <element label="Service Now Eperience" max_length="40" name="service_now_eperience" type="boolean"/>
+        <element label="Package" mandatory="true" max_length="20" name="package" type="currency"/>
+        <element choice="1" label="Skills" max_length="4000" name="skills" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="RPA" value="RPA"/>
+                <element inactive_on_update="false" label="Servicenow" value="Servicenow"/>
+                <element inactive_on_update="false" label="Javascript" value="Javascript"/>
+                <element inactive_on_update="false" label="C#" value="C#"/>
+                <element inactive_on_update="false" label="Java" value="Java"/>
+            </choice>
+        </element>
+        <element label="Total Experience" max_length="40" name="total_experience" type="integer"/>
+        <element choice="1" label="CAD Certification" max_length="40" name="cda_certification" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yet to Start" sequence="0" value="Yet to Start"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="In Progress"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="Completed"/>
+            </choice>
+        </element>
+        <element label="DOJ" max_length="40" name="doj" type="glide_date"/>
+    </element>
+</database>

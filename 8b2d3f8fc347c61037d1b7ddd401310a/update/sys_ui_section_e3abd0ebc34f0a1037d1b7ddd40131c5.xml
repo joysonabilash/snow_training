@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Employee Detail" section_id="e3abd0ebc34f0a1037d1b7ddd40131c5" sys_domain="global" table="x_1393996_snow_tra_day2_joyson" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-04 04:15:19</sys_created_on>
+            <sys_id>3025453bc3cb021037d1b7ddd4013173</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Detail" display_value="Employee Detail" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">e3abd0ebc34f0a1037d1b7ddd40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-04 04:15:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doj</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-04 04:15:19</sys_created_on>
+            <sys_id>3825453bc3cb021037d1b7ddd4013173</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Detail" display_value="Employee Detail" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">e3abd0ebc34f0a1037d1b7ddd40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-04 04:15:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>servicenow_experience</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-04 04:15:19</sys_created_on>
+            <sys_id>3025453bc3cb021037d1b7ddd4013174</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Detail" display_value="Employee Detail" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">e3abd0ebc34f0a1037d1b7ddd40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-04 04:15:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-04 04:15:19</sys_created_on>
+            <sys_id>3825453bc3cb021037d1b7ddd4013174</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Detail" display_value="Employee Detail" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">e3abd0ebc34f0a1037d1b7ddd40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-04 04:15:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-04 04:15:19</sys_created_on>
+            <sys_id>3025453bc3cb021037d1b7ddd4013175</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Detail" display_value="Employee Detail" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">e3abd0ebc34f0a1037d1b7ddd40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-04 04:15:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>package</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-04 04:15:19</sys_created_on>
+            <sys_id>3825453bc3cb021037d1b7ddd4013175</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Detail" display_value="Employee Detail" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">e3abd0ebc34f0a1037d1b7ddd40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-04 04:15:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_years_of_experience</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-04 04:15:19</sys_created_on>
+            <sys_id>3025453bc3cb021037d1b7ddd4013176</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Detail" display_value="Employee Detail" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="Default view">e3abd0ebc34f0a1037d1b7ddd40131c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-04 04:15:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Employee Detail</caption>
+            <header>false</header>
+            <name>x_1393996_snow_tra_day2_joyson</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 06:35:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3abd0ebc34f0a1037d1b7ddd40131c5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1393996_snow_tra_day2_joyson</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SNOW Training" source="x_1393996_snow_tra">8b2d3f8fc347c61037d1b7ddd401310a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNOW Training">8b2d3f8fc347c61037d1b7ddd401310a</sys_scope>
+            <sys_update_name>sys_ui_section_e3abd0ebc34f0a1037d1b7ddd40131c5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:23:03</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Education Detais" section_id="00a58893c3c7c61037d1b7ddd4013174" sys_domain="global" table="x_1393996_snow_tra_test_1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>education_qualification</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 11:00:41</sys_created_on>
+            <sys_id>0bbe889fc3c7c61037d1b7ddd40131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Detais" display_value="Education Detais" name="x_1393996_snow_tra_test_1" sys_domain="global" view="Default view">00a58893c3c7c61037d1b7ddd4013174</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 11:00:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resume</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 11:00:41</sys_created_on>
+            <sys_id>c3be889fc3c7c61037d1b7ddd40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Detais" display_value="Education Detais" name="x_1393996_snow_tra_test_1" sys_domain="global" view="Default view">00a58893c3c7c61037d1b7ddd4013174</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 11:00:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>skills</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 11:00:41</sys_created_on>
+            <sys_id>4bbe889fc3c7c61037d1b7ddd40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Detais" display_value="Education Detais" name="x_1393996_snow_tra_test_1" sys_domain="global" view="Default view">00a58893c3c7c61037d1b7ddd4013174</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 11:00:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 11:00:41</sys_created_on>
+            <sys_id>cfbe889fc3c7c61037d1b7ddd40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Detais" display_value="Education Detais" name="x_1393996_snow_tra_test_1" sys_domain="global" view="Default view">00a58893c3c7c61037d1b7ddd4013174</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 11:00:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_experience</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 11:00:41</sys_created_on>
+            <sys_id>47be889fc3c7c61037d1b7ddd40131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Detais" display_value="Education Detais" name="x_1393996_snow_tra_test_1" sys_domain="global" view="Default view">00a58893c3c7c61037d1b7ddd4013174</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 11:00:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_now_eperience</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 11:00:41</sys_created_on>
+            <sys_id>cbbe889fc3c7c61037d1b7ddd40131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Detais" display_value="Education Detais" name="x_1393996_snow_tra_test_1" sys_domain="global" view="Default view">00a58893c3c7c61037d1b7ddd4013174</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 11:00:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Education Detais</caption>
+            <header>false</header>
+            <name>x_1393996_snow_tra_test_1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 10:20:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00a58893c3c7c61037d1b7ddd4013174</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1393996_snow_tra_test_1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SNOW Training" source="x_1393996_snow_tra">8b2d3f8fc347c61037d1b7ddd401310a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNOW Training">8b2d3f8fc347c61037d1b7ddd401310a</sys_scope>
+            <sys_update_name>sys_ui_section_00a58893c3c7c61037d1b7ddd4013174</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 10:20:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

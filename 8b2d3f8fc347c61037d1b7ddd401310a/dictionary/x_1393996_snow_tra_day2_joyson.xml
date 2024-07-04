@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="898b90a7c30f0a1037d1b7ddd4013133" label="Day2_Joyson" max_length="40" name="x_1393996_snow_tra_day2_joyson" type="collection">
+        <element choice="3" label="Education Qualification" max_length="40" name="education_qualification" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Post Graduate" sequence="1" value="Post Graduate"/>
+                <element inactive_on_update="false" label="Under Graduate" sequence="0" value="Under Graduate"/>
+            </choice>
+        </element>
+        <element label="Reference" max_length="32" name="reference" reference="sys_user" type="reference"/>
+        <element label="Total Years of Experience" max_length="38" name="total_years_of_experience" type="decimal"/>
+        <element label="Domain ID" max_length="32" name="new_field_0" type="domain_id"/>
+        <element label="Package" max_length="255" name="package" type="currency2"/>
+        <element label="Last Name" max_length="255" name="last_name" type="string_full_utf8"/>
+        <element label="Photo" max_length="255" name="new_field_1" type="user_image"/>
+        <element label="Servicenow Experience" max_length="255" name="servicenow_experience" type="boolean"/>
+        <element label="Desk Phone" max_length="255" name="desk_phone" type="phone_number_e164"/>
+        <element label="DOJ" max_length="255" name="doj" type="glide_date"/>
+        <element label="Resume" max_length="255" name="resume" type="file_attachment"/>
+        <element label="Ip Address" max_length="255" name="ip_address" type="ip_addr"/>
+        <element label="Additional Information" max_length="65536" name="additional_information" type="html"/>
+        <element label="Video Profile" max_length="255" name="video_profile" type="video"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element choice="3" label="Skills" max_length="1024" name="skills" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="AWS Integration" sequence="2" value="AWS Integration"/>
+                <element inactive_on_update="false" label="Javascript" sequence="1" value="Javascript"/>
+                <element inactive_on_update="false" label="Python" sequence="3" value="Python"/>
+            </choice>
+        </element>
+        <element label="Asset ID" max_length="255" name="asset_id" type="longint"/>
+        <element label="Support URL" max_length="1024" name="asset_icon" type="url"/>
+        <index name="index">
+            <element name="new_field_0"/>
+        </index>
+        <index name="index2">
+            <element name="package"/>
+        </index>
+        <index name="index3">
+            <element name="reference"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>snow_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 06:48:50</sys_created_on>
+        <sys_id>23ae90efc34f0a1037d1b7ddd401319e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNOW VIEW</sys_name>
+        <sys_package display_value="SNOW Training" source="x_1393996_snow_tra">8b2d3f8fc347c61037d1b7ddd401310a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Training">8b2d3f8fc347c61037d1b7ddd401310a</sys_scope>
+        <sys_update_name>sys_ui_view_23ae90efc34f0a1037d1b7ddd401319e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 06:48:50</sys_updated_on>
+        <title>SNOW VIEW</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

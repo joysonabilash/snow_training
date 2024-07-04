@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="skills" table="x_1393996_snow_tra_test_1" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>skills</element>
+            <name>x_1393996_snow_tra_test_1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 09:56:10</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>skills</sys_name>
+            <sys_package display_value="SNOW Training" source="x_1393996_snow_tra">8b2d3f8fc347c61037d1b7ddd401310a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNOW Training">8b2d3f8fc347c61037d1b7ddd401310a</sys_scope>
+            <sys_update_name>sys_choice_x_1393996_snow_tra_test_1_skills</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 09:56:10</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skills</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C#</label>
+            <language>en</language>
+            <name>x_1393996_snow_tra_test_1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 09:56:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 09:57:48</sys_updated_on>
+            <value>C#</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skills</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java</label>
+            <language>en</language>
+            <name>x_1393996_snow_tra_test_1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 09:56:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 09:57:41</sys_updated_on>
+            <value>Java</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skills</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Javascript</label>
+            <language>en</language>
+            <name>x_1393996_snow_tra_test_1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 09:56:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 09:58:06</sys_updated_on>
+            <value>Javascript</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skills</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RPA</label>
+            <language>en</language>
+            <name>x_1393996_snow_tra_test_1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 09:56:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 09:58:10</sys_updated_on>
+            <value>RPA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skills</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Servicenow</label>
+            <language>en</language>
+            <name>x_1393996_snow_tra_test_1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 09:56:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 09:57:59</sys_updated_on>
+            <value>Servicenow</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

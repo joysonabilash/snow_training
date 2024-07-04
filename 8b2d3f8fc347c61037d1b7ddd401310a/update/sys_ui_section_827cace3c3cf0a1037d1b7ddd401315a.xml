@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Employee Details" section_id="827cace3c3cf0a1037d1b7ddd401315a" sys_domain="global" table="x_1393996_snow_tra_day2_joyson" version="3" view="customer_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 07:52:11</sys_created_on>
+            <sys_id>e72d6067c3cf0a1037d1b7ddd4013102</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="427cace3c3cf0a1037d1b7ddd4013155">827cace3c3cf0a1037d1b7ddd401315a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:52:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 07:52:11</sys_created_on>
+            <sys_id>ef2d6067c3cf0a1037d1b7ddd4013102</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="427cace3c3cf0a1037d1b7ddd4013155">827cace3c3cf0a1037d1b7ddd401315a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:52:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 07:52:11</sys_created_on>
+            <sys_id>e72d6067c3cf0a1037d1b7ddd4013103</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_1393996_snow_tra_day2_joyson" sys_domain="global" view="427cace3c3cf0a1037d1b7ddd4013155">827cace3c3cf0a1037d1b7ddd401315a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:52:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Employee Details</caption>
+            <header>false</header>
+            <name>x_1393996_snow_tra_day2_joyson</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-03 07:49:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>827cace3c3cf0a1037d1b7ddd401315a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1393996_snow_tra_day2_joyson</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SNOW Training" source="x_1393996_snow_tra">8b2d3f8fc347c61037d1b7ddd401310a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNOW Training">8b2d3f8fc347c61037d1b7ddd401310a</sys_scope>
+            <sys_update_name>sys_ui_section_827cace3c3cf0a1037d1b7ddd401315a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-03 07:52:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Customer View" name="customer_view">427cace3c3cf0a1037d1b7ddd4013155</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
